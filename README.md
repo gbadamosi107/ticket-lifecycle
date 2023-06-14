@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/5I1A8tX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this section, we will create a ticket as an end-user. Karen is the end-user example I will use to open a ticket. She reports that mobile banking is completely down. From the Help Topics menu, she selects "Business Critical Outage," and clicks "Create Ticket."
+In this section, I will create a ticket as an end-user. Karen is the end-user example I will use to open a ticket. She reports that mobile banking is completely down. From the Help Topics menu, she selects "Business Critical Outage," and clicks "Create Ticket."
 </p>
 <br />
 
