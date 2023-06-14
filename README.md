@@ -41,7 +41,7 @@ In this section, I will create a ticket as an end-user. Karen is the end-user ex
 <img src="https://i.imgur.com/lLrGMjb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agents are able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents. They will also assign proper SLAs to the tickets and/or change it to a different department, as needed. Agents like Jane Neal, can post replies in the "Ticket Response" section explaining what steps they are taking to resolve the issue
+Agents are able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents. They will also assign proper SLAs to the tickets and/or re-assign them to a different department, if needed. Agents like Jane Neal can post replies in the "Ticket Response" section explaining what steps they are taking to resolve the issue.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Agents are able to see live tickets in the agent panel. Queue managers will assi
 <img src="https://i.imgur.com/6yP8gP7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this example, the Agent Jane changed the priority to Emergency since it is affecting critical business functions. She also assinged it to the Systems Administrator department, who handles mobile banking outages. She posted a response informing that she and the Systems Administrator are working to resolve the issue speedily.
+In this example, Jane changed the priority to Emergency since it is affecting critical business functions. She also assigned it to the Systems Administrator department, who handles mobile banking outages. She posted a response informing that she and the Systems Administrator are working to resolve the issue speedily.
 </p>
 <br />
 
@@ -57,6 +57,6 @@ In this example, the Agent Jane changed the priority to Emergency since it is af
 <img src="https://i.imgur.com/sRIIj3r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the issues are resolved, the Agent can close the ticket. The ticket is then removed from the queue and placed in the closed-tickets section. The closed-tickets section maintains tracking data, such as the date and time tickets were closed and the agents that closed them.  
+Once the issues are resolved, the Agent can close the ticket. The ticket is then removed from the queue and placed in the closed-tickets section. The closed-tickets section maintains tracking data, such as the date and time tickets were closed and the agents who closed them.  
 </p>
 <br />
